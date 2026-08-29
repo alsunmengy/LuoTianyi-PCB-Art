@@ -1,4 +1,4 @@
-<img width="1041" height="323" alt="image" src="https://github.com/user-attachments/assets/9152b6a7-6f9a-4496-955a-1f09ad093824" /># Luo-Tiaanyi-PCB
+# Luo-Tiaanyi-PCB
 洛天依南北组主题沉金艺术纪念PCB票卡，嘉立创开源硬件，无电气功能纯收藏卡
 ![票卡A预览](preview/反.png)
 ![票卡B预览](preview/正.png)
