@@ -5,6 +5,10 @@
 ![票卡A预览](preview/反.png)
 ![票卡B预览](preview/正.png)
 ![票卡A预览](preview/凉面派.png)
+## Star History
+
+[![Star history](https://raw.githubusercontent.com/alsunmengy/LuoTianyi-PCB-Art/main/.github/star-history/chart.svg)](https://github.com/alsunmengy/LuoTianyi-PCB-Art/stargazers)
+
 ## 📖 项目简介
 
 这是一套仿照演出票根样式设计的收藏级 PCB 卡片，以洛天依、乐正绫（南北组）为主题，采用嘉立创 PCB 工艺实现。
