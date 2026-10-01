@@ -1,8 +1,7 @@
 # Luo-Tianyi-PCB
-<a href="https://github.com/alsunmengy"><img src="https://img.shields.io/github/followers/alsunmengy?style=for-the-badge&label=%E4%B8%80%E9%94%AE%E5%85%B3%E6%B3%A8&labelColor=%230969da&color=%230d1117" alt="一键关注" height="120"></a>
+<a href="https://github.com/alsunmengy/LuoTianyi-PCB-Art/stargazers"><img src="https://raw.githubusercontent.com/alsunmengy/LuoTianyi-PCB-Art/main/.github/badges/star-banner" alt="点一下 Star" height="60"></a>
 <br>
-<a href="https://github.com/alsunmengy/LuoTianyi-PCB-Art"><img src="https://img.shields.io/github/stars/alsunmengy/LuoTianyi-PCB-Art?style=for-the-badge&label=%E4%B8%80%E9%94%AEStar&labelColor=%23ffd33d&color=%230d1117" alt="一键Star" height="120"></a>
-
+<a href="https://github.com/alsunmengy"><img src="https://raw.githubusercontent.com/alsunmengy/LuoTianyi-PCB-Art/main/.github/badges/follow-me" alt="关注我" height="56"></a>
 洛天依南北组主题沉金艺术纪念PCB票卡，嘉立创开源硬件，无电气功能纯收藏卡
 ![票卡A预览](preview/反.png)
 ![票卡B预览](preview/正.png)
