@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "repository": "alsunmengy/LuoTianyi-PCB-Art",
+  "backfilledAt": "2026-10-01T11:26:04.274Z",
+  "backfill": [
+    {
+      "date": "2026-08-30",
+      "stars": 2
+    },
+    {
+      "date": "2026-08-31",
+      "stars": 3
+    },
+    {
+      "date": "2026-09-03",
+      "stars": 4
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 5
+    },
+    {
+      "date": "2026-09-22",
+      "stars": 6
+    }
+  ],
+  "snapshots": [
+    {
+      "date": "2026-10-01",
+      "stars": 6
+    }
+  ]
+}
