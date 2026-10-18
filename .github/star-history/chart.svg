@@ -30,8 +30,8 @@
   <text transform="translate(64.1,104.0) rotate(-90)" class="rel">1.0.0</text>
   <text x="52.0" y="408.0" text-anchor="end" class="ax">0</text><text x="52.0" y="342.5" text-anchor="end" class="ax">2</text><text x="52.0" y="267.0" text-anchor="end" class="ax">4</text><text x="52.0" y="191.5" text-anchor="end" class="ax">6</text><text x="52.0" y="125.0" text-anchor="end" class="ax">8</text>
   <text x="60.0" y="434.0" text-anchor="start" class="ax">08-29</text><text x="237.5" y="434.0" text-anchor="middle" class="ax">09-11</text><text x="415.0" y="434.0" text-anchor="middle" class="ax">09-23</text><text x="592.5" y="434.0" text-anchor="middle" class="ax">10-05</text><text x="770.0" y="434.0" text-anchor="end" class="ax">10-18</text>
-  <polygon points="60.0,414.0 69.2,376.2 71.6,338.5 81.4,300.8 125.2,263.0 375.2,225.2 402.5,187.5 770.0,187.5 770.0,414.0 60.0,414.0" fill="url(#fill)"/>
-  <polyline points="60.0,414.0 69.2,376.2 71.6,338.5 81.4,300.8 125.2,263.0 375.2,225.2 402.5,187.5 770.0,187.5" fill="none" stroke="#66CCFF" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="60.0,414.0 69.2,376.2 71.6,338.5 81.4,300.8 125.2,263.0 375.1,225.2 402.3,187.5 770.0,187.5 770.0,414.0 60.0,414.0" fill="url(#fill)"/>
+  <polyline points="60.0,414.0 69.2,376.2 71.6,338.5 81.4,300.8 125.2,263.0 375.1,225.2 402.3,187.5 770.0,187.5" fill="none" stroke="#66CCFF" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
   <circle cx="770.0" cy="187.5" r="4.5" fill="#66CCFF" stroke="#ffffff" stroke-width="2"/>
   <text x="764.0" y="175.5" text-anchor="end" class="val">★ 6</text>
   <text x="60" y="448" class="ax">Source: GitHub stargazers &amp; releases API · auto-updated</text>
