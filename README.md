@@ -19,9 +19,11 @@
 > - **图片出处**：有一部分来自网络、有一部分自制，README 里都标注了原作者与原帖。
 > - **找到我**：闲鱼 `alsun梦游` ｜ GitHub [`alsunmengy`](https://github.com/alsunmengy) ｜ Star 可选，不点也能用。
 
-## Star History
+## Star & Download History
+[![Star & download history](https://raw.githubusercontent.com/alsunmengy/LuoTianyi-PCB-Art/main/.github/charts/chart.svg)](https://github.com/alsunmengy/LuoTianyi-PCB-Art/stargazers)
 
-[![Star history](https://raw.githubusercontent.com/alsunmengy/LuoTianyi-PCB-Art/main/.github/star-history/chart.svg)](https://github.com/alsunmengy/LuoTianyi-PCB-Art/stargazers)
+> 上图上半是 star 累积，下半是 Release 下载累积，共用一条时间轴；竖虚线是发版时间。每天 UTC 3:10 自动重新采集并提交。
+
 
 ## 📖 项目简介
 
