@@ -103,6 +103,14 @@
    "proj": 61,
    "gerber": 39,
    "other": 7
+  },
+  {
+   "t": "2026-11-28T11:38:12.929303Z",
+   "date": "2026-11-28",
+   "total": 108,
+   "proj": 61,
+   "gerber": 40,
+   "other": 7
   }
  ],
  "repo": "alsunmengy/LuoTianyi-PCB-Art"
